@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "622392017283",
+    "firebase_url": "https://daydesigner-6433b-default-rtdb.firebaseio.com",
+    "project_id": "daydesigner-6433b",
+    "storage_bucket": "daydesigner-6433b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622392017283:android:65e78a451effb29d7d76b6",
+        "android_client_info": {
+          "package_name": "com.shivdroid.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622392017283-8mtosr5ag8mahgrbohp31hs1dqpeimq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADgAPeRPn3_6_dP1FL0dsidOzsmDnTdqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622392017283-8mtosr5ag8mahgrbohp31hs1dqpeimq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
